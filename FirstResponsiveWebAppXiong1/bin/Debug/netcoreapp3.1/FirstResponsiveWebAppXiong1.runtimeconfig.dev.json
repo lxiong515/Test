@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lukex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lukex\\.nuget\\packages"
+    ]
+  }
+}
